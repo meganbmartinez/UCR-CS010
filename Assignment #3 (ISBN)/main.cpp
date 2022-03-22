@@ -17,7 +17,7 @@
 // Megan Brittany Martinez
 // =================================================================
 
-// Psuedocode (LearningFuze Style Format)
+// Pseudocode (LearningFuze Style Format)
 //
 // Add storage space for ISBN input, weighted sum (initial value = 0), and check sum (initial value = 0)
 // Ask user for input.
