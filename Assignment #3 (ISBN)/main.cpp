@@ -23,7 +23,7 @@ Make storage space for ISBN input, weighted sum (initial value = 0), and check s
 Ask user for input.
 Output a newline.
 For each digit of ISBN.
-  - Pick right most number and times by algorith and add weighted sum.
+  - Pick right most number and times by algorithm and add weighted sum.
   - (weightedSum algorithm)
   - Store the input without the right-most number for the next loop.
 Calculate checkSum from weightedSum and assign the result of the modulo expression to checkSum
